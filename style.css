@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+}
+p{
+    color: green;
+}
+h2{
+    color: purple;
+}
+body{
+    background-color: wheat;
+}
+*{
+    margin: 5;
+    padding: 5;
+}
