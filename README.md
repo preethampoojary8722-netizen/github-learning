@@ -1,1 +1,1 @@
-# A simple portfolio website using HTML.
+# A simple portfolio website using html.
